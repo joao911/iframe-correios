@@ -1,10 +1,4 @@
-import {
-  Routes,
-  Route,
-  Navigate,
-  Outlet,
-  useSearchParams,
-} from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import { DefaultLayout } from "./screens/DefaultLayout";
 import { SalesCarnet } from "./screens/SalesCarnet";
 import { PaymentInstallments } from "./screens/PaymentInstallments";
